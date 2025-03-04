@@ -1,0 +1,16 @@
+{
+    "w": [
+        {
+            "category": "w",
+            "income_expense": "i",
+            "amount": 2300.0,
+            "date": "23"
+        },
+        {
+            "category": "w",
+            "income_expense": "i",
+            "amount": 234.0,
+            "date": "23"
+        }
+    ]
+}
